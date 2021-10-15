@@ -13,6 +13,7 @@
         <module>Prue-Note</module>
         <module>Prue-Entity</module>
         <module>Prue-Mapper</module>
+        <module>Prue-Novel</module>
     </modules>
     <packaging>pom</packaging>
 

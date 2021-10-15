@@ -12,3 +12,6 @@ zuul:
     api-note-ms:
       path: /vue-note/**
       url: http://localhost:8800/
+    api-novel-ms:
+      path: /vue-novel/**
+      url: http://localhost:8801/

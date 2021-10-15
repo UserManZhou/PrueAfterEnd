@@ -1,5 +1,6 @@
 package com.gec.prue.controller;
 
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.gec.prue.entity.Note;
 import com.gec.prue.mapper.NoteMapper;
 import org.junit.Test;

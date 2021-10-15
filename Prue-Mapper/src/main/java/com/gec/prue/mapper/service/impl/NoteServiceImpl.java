@@ -3,6 +3,7 @@ package com.gec.prue.mapper.service.impl;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.gec.prue.entity.Note;
 import com.gec.prue.mapper.NoteMapper;
+import com.gec.prue.mapper.NovelMapper;
 import com.gec.prue.mapper.service.INoteService;
 import org.springframework.stereotype.Service;
 

@@ -7,7 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Prue-Note" />
+        <module name="Prue-Novel" />
         <module name="Prue-Erueka" />
+        <module name="Prue-Zuul" />
+        <module name="Prue-Mapper" />
+        <module name="Prue-Entity" />
       </profile>
     </annotationProcessing>
   </component>
@@ -17,6 +22,7 @@
       <module name="Prue-Erueka" options="-parameters" />
       <module name="Prue-Mapper" options="-parameters" />
       <module name="Prue-Note" options="-parameters" />
+      <module name="Prue-Novel" options="-parameters" />
       <module name="Prue-Zuul" options="-parameters" />
     </option>
   </component>
